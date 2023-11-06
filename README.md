@@ -21,7 +21,9 @@ https://sportsdata.io/developers/api-documentation/mlb#/sports-data-feeds/
 league-feeds
 https://projects.fivethirtyeight.com/mlb-api/mlb_elo.csv
 https://projects.fivethirtyeight.com/mlb-api/mlb_elo_latest.csv
+
 ----
+
 Question 1:  
 Is there really a "home team advantage"? In other words, is a team more likely to 
 win if playing at their home stadium? Is there any difference between how likely a 
@@ -56,7 +58,9 @@ dataset, as relatively few playoff games are played in a season.
 Based on these visualizations, we can conclude that the idea of a “home team 
 advantage” holds true as an observation for most games played, but not during 
 the playoffs.
+
 ------
+
 Question 2:
 Are there patterns visible in the data that show the differences in how teams with 
 the most playoff games score vs. the teams with the fewest playoff games?
@@ -93,7 +97,9 @@ score above the maximum value, and have a single outlier low score as well. The
 maximum values indicated by the top whiskers are also lower in general than the 
 maximum values of the top 5 teams. Together, this seems to indicate a lower 
 scoring ability for these teams.
+
 ------
+
 Question 3:
 Do global or economic events affect the number of games played in a season, and
 in what way?
